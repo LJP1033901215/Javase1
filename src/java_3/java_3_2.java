@@ -1,3 +1,5 @@
+package java_3;
+
 public class java_3_2 {
     public static void main(String[] args) {
         int one = 20 ;

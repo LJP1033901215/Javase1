@@ -1,3 +1,5 @@
+package java_3;
+
 public class shengzi {
     public static void main(String[] args) {
         int j =0;
